@@ -1,4 +1,8 @@
 # OctoDash
+<a href="https://www.youtube.com/watch?v=wu1HBNS_gJQ"><img src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(5).png" data-canonical-src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(5).png"/></a>
+Click [here](https://www.youtube.com/watch?v=wu1HBNS_gJQ") to watch the Trailer!
+
+
 ## Game Programming Lab 2022 - House Stardew - Team4
 ## Lukas Gygi, Rafael Sterzinger, Felix Tockner, Christoph Mueller, Nina Willis
 
@@ -22,6 +26,19 @@ interact with the environment to overcome obstacles, and race through different 
 settings such as the deep sea, a fishing ship, or a sushi restaurant.
 
 The optimal way to play OctoDash is together with a friend.
+
+
+  <div>
+<img src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(1).png" data-canonical-src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(1).png" width=50%/><img src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(2).png" data-canonical-src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(2).png" width=50%/>
+  </div>
+  
+  <div>
+<img src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(3).png" data-canonical-src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(3).png" width=50%/><img src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(4).png" data-canonical-src="https://github.com/RafaelSterzinger/OctoDash/blob/main/Screenshots/screenshot%20(4).png" width=50%/>
+  </div>
+</div>
+
+
+
 
 ### Install Instructions
 
