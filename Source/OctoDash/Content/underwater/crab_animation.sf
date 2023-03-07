@@ -1,0 +1,14 @@
+{
+  "textureAtlas": {
+    "texture": "crab_spritesheet.png",
+    "regionWidth": 128,
+    "regionHeight": 128
+  },
+  "cycles": {
+    "animation": {
+      "frames": [0,1,2,3,2,3,2,1,0],
+      "isLooping": true,
+      "frameDuration": 0.15
+    }
+  }
+}
